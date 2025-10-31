@@ -31,8 +31,7 @@ All core logic, the implementation of advanced concepts (OOP, data structures), 
 Please run it from your terminal using Python 3:
 
 ```bash
-# Replace 'your_file_name.py' with the actual .py script name
-python3 your_file_name.py
+python3 main.py
 ```
 
 ---
